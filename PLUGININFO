@@ -1,0 +1,4 @@
+Name = 'DeepL Translate'
+Version = '0.3.4'
+Authors = ('Robin Hirst',)
+Description = 'Adds a /translate command that replaces your message with a DeepL-translated version before sending.'
